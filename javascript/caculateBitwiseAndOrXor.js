@@ -1,4 +1,4 @@
-// Scratch test file
+// find edabit link
 
 function main(n1, n2) {
     const bitDict = createBase10ToBase2Dict(n1, n2);
